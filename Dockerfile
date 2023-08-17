@@ -4,13 +4,6 @@ ENTRYPOINT ["java", "-jar", "mavenProject-0.0.1-SNAPSHOT.jarr"]
 
 
 
-ENTRYPOINT ["java", "-jar", "mavenProject-0.0.1-SNAPSHOT.jarr"]
-
-
-
-
-
-
 
 
 
